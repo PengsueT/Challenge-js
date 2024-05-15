@@ -7,7 +7,7 @@ const collectEmployees = function() {
     let continueAdding = true;
 
     while (continueAdding) {
-      const firstName = prompt ("Enter the emplotyee's first name:");
+      const firstName = prompt ("Enter the employee's first name:");
       const lastName = prompt ("Enter the employee's last name:");
       const salary = parseFloat(prompt("Enter the employee's salary:"));
 
@@ -26,6 +26,8 @@ const collectEmployees = function() {
     }
 
     return employees;
+
+  console.log(`${employees}`)
   // TODO: Get user input to create and return an array of employee objects
   // Done!
 }

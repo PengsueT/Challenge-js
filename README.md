@@ -5,14 +5,16 @@ This week's Challenge is JavaScript code that I wrote with starter code given to
 
 ## Usage
 
-[EPTscreenshot](/images/EPTscreenshot.png)
+* [EPTscreenshot](/images/EPTscreenshot.png)
 
 ## Credits
 
-[w3schoolsJStutorial](https://www.w3schools.com/js/default.asp)
+* [w3schoolsJStutorial](https://www.w3schools.com/js/default.asp)
 
-[mdn-web-docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+* [mdn-web-docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 
 ## Links
 
-[Github-link](https://github.com/PengsueT/Challenge-js.git)
+* [Github-link](https://github.com/PengsueT/Challenge-js.git)
+
+* [Github-livePage](https://pengsuet.github.io/Challenge-js/)
